@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Card, Elevation } from '@blueprintjs/core';
+import './style.css';
 
 function Tick() {
   ReactDOM.render(
